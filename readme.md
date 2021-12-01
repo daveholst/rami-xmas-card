@@ -5,7 +5,7 @@
 - Yarn [package manager (quicker)] - https://yarnpkg.com/
 - Vite [CRA alternative (quicker)] - https://vitejs.dev/
 - React - https://reactjs.org/
-- Emotiuon [CSS is JS] - https://emotion.sh/docs/introduction
+- Emotion [CSS is JS] - https://emotion.sh/docs/introduction
 
 ## Get Started
 
